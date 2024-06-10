@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukilling&label=Profile%20views&color=0e75b6&style=flat" alt="yukilling" /> </p>
 
-- 🌱 I’m currently learning **VUE, GSAP**
+- 🌱 I’m currently learning **NUXT, GSAP**
 
 - 📫 How to reach me **https://t.me/yukillin**
 
