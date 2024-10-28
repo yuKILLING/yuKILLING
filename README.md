@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yuKILLING</h1>
 <h3 align="center">FRONTEND developer from Russia!</h3>
-<img align="right" alt="Coding" width="400" src="https://pa1.narvii.com/7230/d4a89bdeaf664f52e030cd6981065282c167571ar1-500-240_hq.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/8e84731d-136e-4885-be2d-82b42bf89978">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukilling&label=Profile%20views&color=0e75b6&style=flat" alt="yukilling" /> </p>
 
